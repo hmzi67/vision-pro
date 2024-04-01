@@ -35,7 +35,7 @@ Ensure that you have set up your environment variables correctly, particularly t
 
 ## Functionality
 
-1. **Gemini App**: Allows users to input prompts and upload images of invoices.
+1. **Vision Pro**: Allows users to input prompts and upload images of invoices.
 2. **Image Processing**: Parses the uploaded image to extract relevant information.
 3. **Response Generation**: Utilizes Google's Generative AI to generate a response based on the input prompt and uploaded image.
 
