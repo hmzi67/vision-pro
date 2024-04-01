@@ -36,7 +36,7 @@ def input_image_details(uploaded_file):
 
 st.set_page_config(page_title="Vision Pro")
 
-st.header("Gemini App")
+st.header("Vision Pro")
 input = st.text_input("Input prompt: ", key="input")
 uploaded_file = st.file_uploader("Choose an image of the invoice...", type=["jpg", "jpeg", "png"])
 image = ""
