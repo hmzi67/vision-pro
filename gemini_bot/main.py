@@ -34,7 +34,7 @@ def input_image_details(uploaded_file):
 
 # initilize our streamlit app
 
-st.set_page_config(page_title="ML Invoice Extractor")
+st.set_page_config(page_title="Vision Pro")
 
 st.header("Gemini App")
 input = st.text_input("Input prompt: ", key="input")
